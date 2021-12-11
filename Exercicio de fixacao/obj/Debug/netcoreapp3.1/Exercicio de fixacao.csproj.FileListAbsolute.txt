@@ -1,0 +1,14 @@
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.exe
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.deps.json
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.runtimeconfig.json
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.runtimeconfig.dev.json
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.dll
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\bin\Debug\netcoreapp3.1\Exercicio de fixacao.pdb
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.csproj.AssemblyReference.cache
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.AssemblyInfoInputs.cache
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.AssemblyInfo.cs
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.csproj.CoreCompileInputs.cache
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.dll
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.pdb
+D:\Udemy\programacao-orientada-a-objetos-csharp\14-Interfaces\Exercicio de fixacao\Exercicio de fixacao\obj\Debug\netcoreapp3.1\Exercicio de fixacao.genruntimeconfig.cache
